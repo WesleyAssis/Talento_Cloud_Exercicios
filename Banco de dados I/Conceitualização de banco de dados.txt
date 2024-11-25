@@ -1,0 +1,7 @@
+1. MySQL
+O MySQL é um banco de dados relacional de código aberto, muito usado em aplicativos web devido à sua velocidade e eficiência. Ele é popular por ser fácil de usar, altamente escalável e amplamente compatível com diversas linguagens de programação.
+
+2. SQL Server
+O SQL Server é um banco de dados relacional desenvolvido pela Microsoft, amplamente utilizado em empresas que precisam de soluções robustas para gerenciar grandes volumes de dados. Ele oferece suporte a transações complexas, alta segurança e integração nativa com o ecossistema Microsoft, como Azure e .NET.
+
+Esses dois bancos são bastante presentes no mercado e atendem a diferentes necessidades, desde pequenas aplicações web até grandes soluções corporativas.
